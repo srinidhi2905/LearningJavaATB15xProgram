@@ -9,7 +9,7 @@ public class Lab007_incrEx03 {
         System.out.println(b++ + b++);
 
         int c =5;
-        System.out.println(c++);
+        System.out.println(c);
 
         int d =5;
         System.out.println(++d);
