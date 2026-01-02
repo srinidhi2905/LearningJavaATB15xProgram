@@ -20,5 +20,6 @@ public class Lab008_TriangleClassifier {
         {
             System.out.println("Scalene Triangle");
         }
+        sc.close();
     }
 }
