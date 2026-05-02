@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class test004_StrComparison {
     public static void main(String[] args) {
-        String strA = "Str";
+        String strA = "Coimbatore";
         Scanner sc=new Scanner(System.in);
         System.out.println("Provide the input to compare");
         String strb =sc.next();
